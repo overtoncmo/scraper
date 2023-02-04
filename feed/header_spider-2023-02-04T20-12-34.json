@@ -1,0 +1,12 @@
+[
+{"header": "<h2>Healthy community</h2>", "url": "https://scrapy.org"},
+{"header": "<h2>Healthy community</h2>", "url": "https://scrapy.org"},
+{"header": "<h1>Meet the Scrapy pros</h1>", "url": "https://scrapy.org/companies/"},
+{"header": "<h1>Meet the Scrapy community</h1>", "url": "https://scrapy.org/community/"},
+{"header": "<h1>Get Scrapy</h1>", "url": "https://scrapy.org/download/"},
+{"header": "<h1>Curated Resources</h1>", "url": "https://scrapy.org/resources/"},
+{"header": "<h1>Release notes<a class=\"headerlink\" href=\"#release-notes\" title=\"Permalink to this heading\">¶</a></h1>", "url": "https://docs.scrapy.org/en/latest/news.html"},
+{"header": "<h1>Scrapy 2.8 documentation<a class=\"headerlink\" href=\"#scrapy-version-documentation\" title=\"Permalink to this heading\">¶</a></h1>", "url": "https://docs.scrapy.org/en/latest/"},
+{"header": "<h1>Scrapy at a glance<a class=\"headerlink\" href=\"#scrapy-at-a-glance\" title=\"Permalink to this heading\">¶</a></h1>", "url": "https://docs.scrapy.org/en/latest/intro/overview.html"},
+{"header": "<h1>Frequently Asked Questions<a class=\"headerlink\" href=\"#frequently-asked-questions\" title=\"Permalink to this heading\">¶</a></h1>", "url": "https://docs.scrapy.org/en/latest/faq.html"}
+]
